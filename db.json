@@ -1,0 +1,74 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark",
+      "contactPreference": "email",
+      "email": "mark@email.com",
+      "phone": "5641238971",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Java",
+          "experienceInYears": 2,
+          "proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "John",
+      "contactPreference": "email",
+      "email": "john@email.com",
+      "phone": "4388798252",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": 2,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "HTML",
+          "experienceInYears": 2,
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "LINQ",
+          "experienceInYears": 3,
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "David",
+      "contactPreference": "email",
+      "phone": "1231234568",
+      "skills": [
+        {
+          "skillName": "Java",
+          "experienceInYears": "10",
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "David",
+      "contactPreference": "phone",
+      "email": "samba@dell.com",
+      "phone": "1231234568",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": "15",
+          "proficiency": "advanced"
+        }
+      ]
+    }
+  ]
+}
